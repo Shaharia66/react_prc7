@@ -25,7 +25,7 @@ function App() {
       </ul>
     {
       usersData.map((p)=>(  
-      <ul className="list">
+      <ul className="list" key={p.name}>
         <li>{p.firstName}</li>
         <li>{p.lastName}</li>
         <li>{p.age}</li>
