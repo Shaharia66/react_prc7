@@ -1,6 +1,7 @@
 import Users from "./Users";
 import { NavLink, Routes,Route } from 'react-router'
 import UsersAdd from "./UsersAdd.jsx";
+import EditData from "./editdata.jsx";
 
 
 function App2(){
@@ -18,6 +19,7 @@ function App2(){
             <Routes>
                 <Route path="/main" element={<Users/>} />
                 <Route path="/add" element={<UsersAdd/>} />
+                <Route path="/edit/:id" element={<EditData/>} />
             </Routes>
         </div>
     )
