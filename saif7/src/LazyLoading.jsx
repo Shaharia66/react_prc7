@@ -1,0 +1,97 @@
+function LazyLoading(){
+    return(
+        <div>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+            <h1>this component is use multiple time .</h1>
+        </div>
+    )
+}
+export default LazyLoading;
+
